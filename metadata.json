@@ -1,0 +1,6 @@
+{
+  "name": "Maa Vaishnobi Medicine Store & Clinic",
+  "description": "Maa Vaishnobi Medicine Store & Clinic in Manikhamb, Balasore. In-store shopping, pickup, delivery and convenient local pharmacy services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
